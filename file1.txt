@@ -1,3 +1,6 @@
 added something to file1.txt
 
 all something
+
+file1 modified on local repo
+
